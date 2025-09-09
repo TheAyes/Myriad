@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d0cfe679c94b168c48a10af8add06cd6e35543bb31d9e25761ca0bd2977419d0"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "cc30f3ca21b6d20ce973c9f741814e9cc36f0b1a008e223814b4a984a64d5d61"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "434cd3539ff53aef80723e73f7c1805d30de6b8abc9c934f0f959c8e06e24d45"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "2d5a6c8558ba4f1afe32378ccfe19098a0d52a00e22754b97d65f898cceed447"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "85a149a482e5daa429e8061b917db3efbddc15ab9a3fbd29042167b607bc3bdd"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "781e07694c2765c529428388011d611fff85b0c0fc76783d3dd8ee6403c520e1"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "979910eb08666fb5dd62ab5703c369110b9d6a22288bc0506b3830c1fefeef28"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d8255eee93bf887ad02b1b81912dba40a6bfc3018dfe591d29f4a658f1292d33"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a939e1e079c60fa1d0841792a40f3349b09d146ad2a0a7dc110decd7c41e3314"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e411141f5f9d6330e445707481515672dd078804d10fe3f4d27a75ce02663791"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "78dce7561dde35bedb64cd0bd4ae614367bd987da1b70ec90a13a83e5da0fe8b"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "04c79b5921b2a0ef672ada387d240d6718b482d5e38d10853657900baf9948a7"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ef5b990499a2223875dd6151d6a254ed2d5fed98d8f2e4038a2f0b5a8a9e2b54"
+metafile = true

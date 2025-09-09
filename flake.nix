@@ -15,9 +15,7 @@
     inputs.flake-parts.lib.mkFlake {inherit inputs;} {
       systems = ["x86_64-linux"];
 
-      imports = [
-        inputs.pre-commit-hooks.flakeModule
-      ];
+      imports = [inputs.pre-commit-hooks.flakeModule];
 
       perSystem = {
         config,
@@ -35,12 +33,15 @@
           };
         };
         devShells.default = pkgs.mkShell {
-          packages = [
-            pkgs.git
-            pkgs.packwiz
+          packages = with pkgs; [
+            git
+            packwiz
           ];
+
           shellHook = ''
-            ${config.pre-commit.installationScript}
+             ${config.pre-commit.installationScript}
+
+            source <(${pkgs.packwiz}/bin/packwiz completion bash)
           '';
         };
 
