@@ -1,0 +1,13 @@
+name = "Enhanced Keybinds"
+filename = "enhanced-keybinds-2.1.0-1.21.6-1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NP3csV5D/versions/P06ZGvqG/enhanced-keybinds-2.1.0-1.21.6-1.21.8.jar"
+hash-format = "sha1"
+hash = "d03f3523248eab308c75507588222ef451917dfb"
+
+[update]
+[update.modrinth]
+mod-id = "NP3csV5D"
+version = "P06ZGvqG"

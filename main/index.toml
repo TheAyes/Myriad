@@ -1,8 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "e709c9936848c4c7c957c584515a297c1d61dd8b3794f9b0b3dac28b2bd7e346"
+
+[[files]]
+file = "config/notenoughanimations.json"
+hash = "6d772c20b2593f3aa8bc6c3e9c24f625235198112fa7300773b29ead982d3bc2"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "d0cfe679c94b168c48a10af8add06cd6e35543bb31d9e25761ca0bd2977419d0"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "b9f9a6ec98474b7dc21319c2402901a13888c3e04c6f1dd7f6f35f06b07f99ee"
 metafile = true
 
 [[files]]
@@ -11,8 +24,18 @@ hash = "cc30f3ca21b6d20ce973c9f741814e9cc36f0b1a008e223814b4a984a64d5d61"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "60c03cb3545bd243ec44ccd120a0ae02850d6daf144a676a14d35d3ab73b53cb"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "434cd3539ff53aef80723e73f7c1805d30de6b8abc9c934f0f959c8e06e24d45"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-keybinds.pw.toml"
+hash = "0e2881d0d7ba566aa3340467220128e92cdc9f5466b57e183ad06a507d09377a"
 metafile = true
 
 [[files]]
@@ -64,3 +87,7 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "ef5b990499a2223875dd6151d6a254ed2d5fed98d8f2e4038a2f0b5a8a9e2b54"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "fca36c63e13cbdfcacdd738111c5b3784e1fb4ff71dd1f3aefc4ddb508aeb5fd"
